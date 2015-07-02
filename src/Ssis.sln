@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Ssis", "Ssis\Ssis.dtproj", "{82C16FC2-EC6B-4D77-9F30-0BB0985D0521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C16FC2-EC6B-4D77-9F30-0BB0985D0521}.Development|Default.ActiveCfg = Development
+		{82C16FC2-EC6B-4D77-9F30-0BB0985D0521}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
