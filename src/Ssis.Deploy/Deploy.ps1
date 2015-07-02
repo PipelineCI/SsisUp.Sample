@@ -1,0 +1,1 @@
+﻿& .\Ssis.Deploy.exe | Write-Host
